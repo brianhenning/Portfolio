@@ -110,7 +110,7 @@ body {
 	left: 75px;
 	border-radius: 100%;
 	border: 3px solid #666666;
-	background-image: url('Me.jpg');
+	background-image: url('http://i.imgur.com/OJzC5Ii.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
 }
@@ -222,5 +222,5 @@ body {
 #social img {
 	width: 50px;
 	height: 50px;
-	opacity: 0.75;
+	opacity: 0.50;
 }
